@@ -3,3 +3,5 @@ pug
 dog
 chkecn
 rocky
+monty
+moga
