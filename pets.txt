@@ -5,3 +5,5 @@ chkecn
 rocky
 monty
 moga
+gen 
+beta
